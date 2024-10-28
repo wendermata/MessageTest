@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oARP+gG4GWM=",
+  "dgSpecHash": "04eOp3+Beds=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wende\\source\\repos\\MessagesTest\\MessagesTest.csproj",
+  "projectFilePath": "C:\\Users\\wende\\source\\repos\\misc\\MessagesTest\\MessagesTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wende\\.nuget\\packages\\fluentresults\\3.16.0\\fluentresults.3.16.0.nupkg.sha512",
     "C:\\Users\\wende\\.nuget\\packages\\masstransit\\8.2.5\\masstransit.8.2.5.nupkg.sha512",

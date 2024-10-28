@@ -1375,19 +1375,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wende\\.nuget\\packages\\": {}
+    "C:\\Users\\wende\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wende\\source\\repos\\MessagesTest\\MessagesTest.csproj",
+      "projectUniqueName": "C:\\Users\\wende\\source\\repos\\misc\\MessagesTest\\MessagesTest.csproj",
       "projectName": "MessagesTest",
-      "projectPath": "C:\\Users\\wende\\source\\repos\\MessagesTest\\MessagesTest.csproj",
+      "projectPath": "C:\\Users\\wende\\source\\repos\\misc\\MessagesTest\\MessagesTest.csproj",
       "packagesPath": "C:\\Users\\wende\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wende\\source\\repos\\MessagesTest\\obj\\",
+      "outputPath": "C:\\Users\\wende\\source\\repos\\misc\\MessagesTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\wende\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1455,7 +1460,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
