@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MessagesTest.Controllers.MessageController",
+    "Method": "Post",
+    "RelativePath": "Message",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contract",
+        "Type": "MessagesTest.CreateCustomerOmieContract",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
